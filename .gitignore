@@ -1,0 +1,6 @@
+.idea/
+./venv/
+__pycache__/
+giteaBot/__pycache__/
+giteaBot/spiders/__pycache__/
+database.db
